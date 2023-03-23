@@ -17,6 +17,3 @@ if (close) {
 }
 
 // Navbar ends
-
-// Hero Start
-
